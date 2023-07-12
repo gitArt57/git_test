@@ -1,0 +1,17 @@
+[33mcommit 2fd023f65aaa1b27b68478f1b4cb43886d95335c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: gitArt57 <artjem57@mail.ru>
+Date:   Wed Jul 12 19:42:09 2023 +0500
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 2896c002ee277d73e2bd360283668eb9454af15e[m
+Author: gitArt57 <artjem57@mail.ru>
+Date:   Wed Jul 12 19:35:53 2023 +0500
+
+    Add hello_world.txt
+
+[33mcommit a2e96acab48d8e52a7ee0fdda20c91fd5cc3e9bc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gitArt57 <139042826+gitArt57@users.noreply.github.com>
+Date:   Wed Jul 12 19:27:39 2023 +0500
+
+    Initial commit
